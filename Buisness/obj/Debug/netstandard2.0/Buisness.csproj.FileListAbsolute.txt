@@ -1,0 +1,14 @@
+D:\source\stores\Buisness\bin\Debug\netstandard2.0\Buisness.deps.json
+D:\source\stores\Buisness\bin\Debug\netstandard2.0\Buisness.dll
+D:\source\stores\Buisness\obj\Debug\netstandard2.0\Buisness.csprojAssemblyReference.cache
+D:\source\stores\Buisness\obj\Debug\netstandard2.0\Buisness.AssemblyInfoInputs.cache
+D:\source\stores\Buisness\obj\Debug\netstandard2.0\Buisness.AssemblyInfo.cs
+D:\source\stores\Buisness\bin\Debug\netstandard2.0\Domain.dll
+D:\source\stores\Buisness\bin\Debug\netstandard2.0\DomainAccess.dll
+D:\source\stores\Buisness\bin\Debug\netstandard2.0\Buisness.pdb
+D:\source\stores\Buisness\bin\Debug\netstandard2.0\DomainAccess.pdb
+D:\source\stores\Buisness\bin\Debug\netstandard2.0\Domain.pdb
+D:\source\stores\Buisness\obj\Debug\netstandard2.0\Buisness.csproj.CopyComplete
+D:\source\stores\Buisness\obj\Debug\netstandard2.0\Buisness.dll
+D:\source\stores\Buisness\obj\Debug\netstandard2.0\Buisness.pdb
+D:\source\stores\Buisness\obj\Debug\netstandard2.0\Buisness.csproj.CoreCompileInputs.cache

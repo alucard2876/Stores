@@ -1,0 +1,12 @@
+D:\source\stores\DomainAccess\bin\Debug\netstandard2.0\Domain.dll
+D:\source\stores\DomainAccess\obj\Debug\netstandard2.0\DomainAccess.csprojAssemblyReference.cache
+D:\source\stores\DomainAccess\obj\Debug\netstandard2.0\DomainAccess.AssemblyInfoInputs.cache
+D:\source\stores\DomainAccess\obj\Debug\netstandard2.0\DomainAccess.AssemblyInfo.cs
+D:\source\stores\DomainAccess\bin\Debug\netstandard2.0\DomainAccess.deps.json
+D:\source\stores\DomainAccess\bin\Debug\netstandard2.0\DomainAccess.dll
+D:\source\stores\DomainAccess\bin\Debug\netstandard2.0\DomainAccess.pdb
+D:\source\stores\DomainAccess\bin\Debug\netstandard2.0\Domain.pdb
+D:\source\stores\DomainAccess\obj\Debug\netstandard2.0\DomainAccess.csproj.CopyComplete
+D:\source\stores\DomainAccess\obj\Debug\netstandard2.0\DomainAccess.dll
+D:\source\stores\DomainAccess\obj\Debug\netstandard2.0\DomainAccess.pdb
+D:\source\stores\DomainAccess\obj\Debug\netstandard2.0\DomainAccess.csproj.CoreCompileInputs.cache
